@@ -55,7 +55,7 @@ ROOT_URLCONF = 'ProyectoCoder.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ["C:/Users/moren/OneDrive/Documentos/Proyecto Coder/ProyectoCoder/AppCoder/templates/AppCoder"],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
